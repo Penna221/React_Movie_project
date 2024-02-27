@@ -1,0 +1,13 @@
+.card {
+  text-align: center;
+  background-color: #642666;
+  list-style: none;
+  margin: 10px;
+  padding-top: 10px;
+  width: 240px;
+  border-radius: 10px;
+}
+img {
+  width: 200px;
+  height: auto;
+}
